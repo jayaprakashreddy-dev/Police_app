@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "544994903942",
+    "firebase_url": "https://police-app-fcf77.firebaseio.com",
+    "project_id": "police-app-fcf77",
+    "storage_bucket": "police-app-fcf77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544994903942:android:1369f14aba61eba7994e07",
+        "android_client_info": {
+          "package_name": "com.example.policeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544994903942-6rm2va46aq302abpiv83ac25pidhc06e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuGeobd6dItJhCy-koUbKQxehGd9sBw-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544994903942-6rm2va46aq302abpiv83ac25pidhc06e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
